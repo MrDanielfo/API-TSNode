@@ -1,0 +1,1 @@
+export const MONGO_URI: string = "mongodb+srv://danielfo:corvettez6@faztapi-asxbi.mongodb.net/fazt?retryWrites=true&w=majority"; 
